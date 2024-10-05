@@ -1,0 +1,7 @@
+C:\Users\lenov\Downloads\CSharp-master\CSharp-master\P1_Variables\bin\Debug\P1_Variables.exe.config
+C:\Users\lenov\Downloads\CSharp-master\CSharp-master\P1_Variables\bin\Debug\P1_Variables.exe
+C:\Users\lenov\Downloads\CSharp-master\CSharp-master\P1_Variables\bin\Debug\P1_Variables.pdb
+C:\Users\lenov\Downloads\CSharp-master\CSharp-master\P1_Variables\obj\Debug\P1_Variables.csproj.AssemblyReference.cache
+C:\Users\lenov\Downloads\CSharp-master\CSharp-master\P1_Variables\obj\Debug\P1_Variables.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Downloads\CSharp-master\CSharp-master\P1_Variables\obj\Debug\P1_Variables.exe
+C:\Users\lenov\Downloads\CSharp-master\CSharp-master\P1_Variables\obj\Debug\P1_Variables.pdb
